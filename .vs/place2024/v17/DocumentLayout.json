@@ -3,47 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\cs\\source\\repos\\Place2024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/place2024Context_1d0059bf_e16c_47b9_994e_3075b8bf03b4/True/SqlTable/dbo.AspNetUserTokens.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/place2024Context_1d0059bf_e16c_47b9_994e_3075b8bf03b4/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/place2024Context_1d0059bf_e16c_47b9_994e_3075b8bf03b4/True/SqlTable/dbo.AspNetUserClaims.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/place2024Context_1d0059bf_e16c_47b9_994e_3075b8bf03b4/True/SqlTable/dbo.AspNetUserLogins.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Migrations\\20240228180223_IdentityLogingAndRegistration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:place2024\\Migrations\\20240228180223_IdentityLogingAndRegistration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Migrations\\20240228175323_IdentityLogingAndRegistration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:place2024\\Migrations\\20240228175323_IdentityLogingAndRegistration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Migrations\\20240228175003_IdentityLogingAndRegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:place2024\\Migrations\\20240228175003_IdentityLogingAndRegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\views\\publications\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\views\\publications\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\views\\publications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\views\\publications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Migrations\\20240228030933_Image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:place2024\\Migrations\\20240228030933_Image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\models\\publication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\models\\publication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\controllers\\publicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\controllers\\publicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\data\\place2024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\data\\place2024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/place2024Context_1d0059bf_e16c_47b9_994e_3075b8bf03b4/True/SqlTable/dbo.Publication.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\models\\publication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\models\\publication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\views\\publications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\views\\publications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\views\\publications\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\views\\publications\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|c:\\users\\cs\\source\\repos\\place2024\\place2024\\data\\place2024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5577CCC7-D073-4C5C-84B6-EB6AC54E6504}|place2024\\place2024.csproj|solutionrelative:place2024\\data\\place2024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,24 +94,194 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20240228030933_Image.cs",
-              "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Migrations\\20240228030933_Image.cs",
-              "RelativeDocumentMoniker": "place2024\\Migrations\\20240228030933_Image.cs",
-              "ToolTip": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Migrations\\20240228030933_Image.cs",
-              "RelativeToolTip": "place2024\\Migrations\\20240228030933_Image.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T03:09:33.58Z",
+              "Title": "dbo.AspNetUserTokens [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/place2024Context_1d0059bf_e16c_47b9_994e_3075b8bf03b4/True/SqlTable/dbo.AspNetUserTokens.sql",
+              "ToolTip": "dbo.AspNetUserTokens [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-28T19:05:54.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.AspNetUserRoles [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/place2024Context_1d0059bf_e16c_47b9_994e_3075b8bf03b4/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "dbo.AspNetUserRoles [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-28T19:05:39.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "dbo.AspNetUserClaims [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/place2024Context_1d0059bf_e16c_47b9_994e_3075b8bf03b4/True/SqlTable/dbo.AspNetUserClaims.sql",
+              "ToolTip": "dbo.AspNetUserClaims [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-28T19:05:28.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.AspNetUserLogins [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/place2024Context_1d0059bf_e16c_47b9_994e_3075b8bf03b4/True/SqlTable/dbo.AspNetUserLogins.sql",
+              "ToolTip": "dbo.AspNetUserLogins [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-28T19:05:07.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Program.cs",
+              "RelativeDocumentMoniker": "place2024\\Program.cs",
+              "ToolTip": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Program.cs",
+              "RelativeToolTip": "place2024\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:49:54.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240228180223_IdentityLogingAndRegistration2.cs",
+              "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Migrations\\20240228180223_IdentityLogingAndRegistration2.cs",
+              "RelativeDocumentMoniker": "place2024\\Migrations\\20240228180223_IdentityLogingAndRegistration2.cs",
+              "ToolTip": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Migrations\\20240228180223_IdentityLogingAndRegistration2.cs",
+              "RelativeToolTip": "place2024\\Migrations\\20240228180223_IdentityLogingAndRegistration2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:02:23.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240228175323_IdentityLogingAndRegistration2.cs",
+              "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Migrations\\20240228175323_IdentityLogingAndRegistration2.cs",
+              "RelativeDocumentMoniker": "place2024\\Migrations\\20240228175323_IdentityLogingAndRegistration2.cs",
+              "ToolTip": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Migrations\\20240228175323_IdentityLogingAndRegistration2.cs",
+              "RelativeToolTip": "place2024\\Migrations\\20240228175323_IdentityLogingAndRegistration2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:53:23.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240228175003_IdentityLogingAndRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Migrations\\20240228175003_IdentityLogingAndRegistration.cs",
+              "RelativeDocumentMoniker": "place2024\\Migrations\\20240228175003_IdentityLogingAndRegistration.cs",
+              "ToolTip": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Migrations\\20240228175003_IdentityLogingAndRegistration.cs",
+              "RelativeToolTip": "place2024\\Migrations\\20240228175003_IdentityLogingAndRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:50:04.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "place2024\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "place2024\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:45:33.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "place2024\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "place2024\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T17:37:24.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "place2024\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "place2024\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T17:34:10.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "place2024\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "place2024\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T17:27:09.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "place2024\\Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "place2024\\Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:20:19.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "place2024\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "place2024\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T17:18:07.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "place2024\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "place2024\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAADwv1oAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:03:14.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Models\\SeedData.cs",
               "RelativeDocumentMoniker": "place2024\\Models\\SeedData.cs",
@@ -83,29 +294,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Views\\Publications\\Create.cshtml",
               "RelativeDocumentMoniker": "place2024\\Views\\Publications\\Create.cshtml",
               "ToolTip": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Views\\Publications\\Create.cshtml",
               "RelativeToolTip": "place2024\\Views\\Publications\\Create.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAABPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-28T03:04:21.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "dbo.Publication [Donn\u00E9es]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/place2024Context_1d0059bf_e16c_47b9_994e_3075b8bf03b4/True/SqlTable/dbo.Publication.sql",
-              "ToolTip": "dbo.Publication [Donn\u00E9es]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-02-27T23:06:42.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Views\\Publications\\Index.cshtml",
               "RelativeDocumentMoniker": "place2024\\Views\\Publications\\Index.cshtml",
@@ -118,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Views\\Publications\\Details.cshtml",
               "RelativeDocumentMoniker": "place2024\\Views\\Publications\\Details.cshtml",
@@ -126,66 +328,44 @@
               "RelativeToolTip": "place2024\\Views\\Publications\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-27T23:01:47.966Z"
+              "WhenOpened": "2024-02-27T23:01:47.966Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\appsettings.json",
-              "RelativeDocumentMoniker": "place2024\\appsettings.json",
-              "ToolTip": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\appsettings.json",
-              "RelativeToolTip": "place2024\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-27T22:59:07.329Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Program.cs",
-              "RelativeDocumentMoniker": "place2024\\Program.cs",
-              "ToolTip": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Program.cs",
-              "RelativeToolTip": "place2024\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAABEAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T22:58:26.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "place2024Context.cs",
               "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Data\\place2024Context.cs",
               "RelativeDocumentMoniker": "place2024\\Data\\place2024Context.cs",
               "ToolTip": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Data\\place2024Context.cs",
               "RelativeToolTip": "place2024\\Data\\place2024Context.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T22:57:47.919Z"
+              "WhenOpened": "2024-02-27T22:57:47.919Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "PublicationsController.cs",
               "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Controllers\\PublicationsController.cs",
               "RelativeDocumentMoniker": "place2024\\Controllers\\PublicationsController.cs",
               "ToolTip": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Controllers\\PublicationsController.cs",
               "RelativeToolTip": "place2024\\Controllers\\PublicationsController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAA9wD8AAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T22:55:48.828Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
               "Title": "Publication.cs",
               "DocumentMoniker": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Models\\Publication.cs",
               "RelativeDocumentMoniker": "place2024\\Models\\Publication.cs",
               "ToolTip": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\Models\\Publication.cs",
               "RelativeToolTip": "place2024\\Models\\Publication.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAhAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T22:52:29.089Z",
               "EditorCaption": ""
