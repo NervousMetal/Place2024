@@ -24,6 +24,7 @@ public static class SeedData
                 {
                     PublicationTitle = "Le moulin de PAT",
                     PublicationDescription = "C'est un moulin à PAT",
+                    PublicationImage = "images/publications/Moulin_PAT.jpg",
                     PublicationDate = DateTime.Parse("2024-2-12"),
                     Categorie = "Monument historique",
              
@@ -41,6 +42,7 @@ public static class SeedData
                                 {
                                     PublicationTitle = "Le musée Redpath",
                                     PublicationDescription = "C'est le premier musée en Amérique",
+                                    PublicationImage = "images/publications/Musee_Redpath.jpg",
                                     PublicationDate = DateTime.Parse("2024-2-24"),
                                     Categorie = "Monument historique",
 

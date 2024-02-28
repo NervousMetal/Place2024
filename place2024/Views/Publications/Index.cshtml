@@ -18,6 +18,11 @@
             <th>
                 @Html.DisplayNameFor(model => model.PublicationDescription)
             </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.PublicationImage)
+            </th>
+
             <th>
                 @Html.DisplayNameFor(model => model.PublicationDate)
             </th>
@@ -36,6 +41,17 @@
             <td>
                 @Html.DisplayFor(modelItem => item.PublicationDescription)
             </td>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.PublicationImage))
+                    {
+                        <img src="@Url.Content(item.PublicationImage)" alt="Image" style="width: 100px; height: auto;" />
+                    }
+                    else
+                    {
+                        <text>Sans image</text>
+                    }
+                </td>
+
             <td>
                 @Html.DisplayFor(modelItem => item.PublicationDate)
             </td>

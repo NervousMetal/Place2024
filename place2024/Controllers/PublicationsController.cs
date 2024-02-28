@@ -54,7 +54,7 @@ namespace place2024.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("PublicationId,PublicationTitle,PublicationDescription,PublicationDate,Categorie")] Publication publication)
+        public async Task<IActionResult> Create([Bind("PublicationId,PublicationTitle,PublicationDescription,PublicationDate,Categorie,PublicationImage")] Publication publication)
         {
             if (ModelState.IsValid)
             {

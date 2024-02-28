@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cs\\source\\repos\\place2024\\place2024\\place2024.csproj": {}
+    "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\place2024.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cs\\source\\repos\\place2024\\place2024\\place2024.csproj": {
+    "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\place2024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cs\\source\\repos\\place2024\\place2024\\place2024.csproj",
+        "projectUniqueName": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\place2024.csproj",
         "projectName": "place2024",
-        "projectPath": "C:\\Users\\cs\\source\\repos\\place2024\\place2024\\place2024.csproj",
+        "projectPath": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\place2024.csproj",
         "packagesPath": "C:\\Users\\cs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cs\\source\\repos\\place2024\\place2024\\obj\\",
+        "outputPath": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cs\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xuSYebA7vKX4EPZMnZ/ovaXJAQXxC2zanC1n40rzsfPFU+lA2ncnni/D62MFUb1TVwS4plLs0AfjqRF96isq8w==",
+  "dgSpecHash": "JjRg9c8ybrqXSYXhEMK719GGfWwNDlWejWhMIz+MO/Z05eJFTuf4QQexnXrzHWoePZQsvuSp+qwV3GzjCY7mlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cs\\source\\repos\\place2024\\place2024\\place2024.csproj",
+  "projectFilePath": "C:\\Users\\cs\\source\\repos\\Place2024\\place2024\\place2024.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cs\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\cs\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

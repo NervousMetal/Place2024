@@ -14,6 +14,9 @@ namespace place2024.Models
         [Display(Name = "Description")]
         public string PublicationDescription { get; set; }
 
+        [Display(Name = "Image")]
+        public string? PublicationImage { get; set; }
+
         [Display(Name = "Date de publication")]
         [DataType(DataType.Date)]
         public DateTime PublicationDate { get; set; }
