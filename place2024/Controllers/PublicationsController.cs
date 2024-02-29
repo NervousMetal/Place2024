@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using place2024.Data;
 using place2024.Models;
+using place2024.Models.ViewModels;
 
 namespace place2024.Controllers
 {
@@ -46,6 +47,7 @@ namespace place2024.Controllers
         // GET: Publications/Create
         public IActionResult Create()
         {
+
             return View();
         }
 

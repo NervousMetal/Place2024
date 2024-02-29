@@ -30,7 +30,15 @@
             </div>
             <div class="form-group">
                 <label asp-for="Categorie" class="control-label"></label>
-                <input asp-for="Categorie" class="form-control" />
+                <select asp-for="Categorie" class="form-control">
+                    <option value="">Sélectionnez une catégorie</option>
+                    <option value="Anecdotes">Anecdotes</option>
+                    <option value="Bâtiment ou site historique">Bâtiment ou site historique</option>
+                    <option value="Monument historique">Monument historique</option>
+                    <option value="Patrimoine culturel">Patrimoine culturel</option>
+                    <option value="Paysage">Paysage</option>
+                    <option value="Souvenir">Souvenir</option>
+                </select>
                 <span asp-validation-for="Categorie" class="text-danger"></span>
             </div>
             <div class="form-group">
